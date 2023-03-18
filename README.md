@@ -2,7 +2,9 @@
 
 ![git_cheat_sheet](https://img.shields.io/badge/-Шпаргалка_с_основными_командами_для_Git-090909?style=for-the-badge&logoColor=47C5FB)
 
-Конфигурацияgit config --global user.name "[name]" — установить имя, которое будет прикрепляться к коммиту.
+![Конфигурация](https://img.shields.io/badge/-Конфигурация-090909?style=for-the-badge&logoColor=47C5FB)
+
+git config --global user.name "[name]" — установить имя, которое будет прикрепляться к коммиту.
 
 git config --global user.email "[email address]" — установить email, который будет прикрепляться к коммиту.
 
@@ -14,11 +16,15 @@ git config --global core.editor [editor] — установить редакто
 
 git config --global diff.tool [tool] — установить программу для разрешения конфликтов при слиянии.
 
-Создание репозиториевgit init [project-name] — создать новый локальный репозиторий с заданным именем.
+![Создание_репозиториев](https://img.shields.io/badge/-Создание_репозиториев-090909?style=for-the-badge&logoColor=47C5FB)
+
+git init [project-name] — создать новый локальный репозиторий с заданным именем.
 
 git clone [url] — загрузить проект и его полную историю изменений.
 
-Работа с изменениямиgit status — полный список изменений файлов, ожидающих коммита.
+![Работа_с_изменениями](https://img.shields.io/badge/-Работа_с_изменениями-090909?style=for-the-badge&logoColor=47C5FB)
+
+git status — полный список изменений файлов, ожидающих коммита.
 
 git status -s — краткий вид изменений.
 
