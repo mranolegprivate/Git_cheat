@@ -2,6 +2,11 @@
 Шпаргалка git команд
 Шпаргалка с основными командами для Git
 
+![git_cheat_sheet](https://img.shields.io/badge/-git_cheat_sheet-090909?style=for-the-badge&logoColor=47C5FB)
+
+
+
+
 Конфигурацияgit config --global user.name "[name]" — установить имя, которое будет прикрепляться к коммиту.
 
 git config --global user.email "[email address]" — установить email, который будет прикрепляться к коммиту.
