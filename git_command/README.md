@@ -1,4 +1,8 @@
-# git_cheat_sheet
+<div align="center">
+
+# Git cheat sheet
+
+</div>
 
 ![git_cheat_sheet](https://img.shields.io/badge/-Шпаргалка_с_основными_командами_для_Git-090909?style=for-the-badge&logoColor=47C5FB)
 
