@@ -20,6 +20,7 @@
 | git config --global push.default current | — обновлять удаленную ветку с таким же именем, что и локальная, при пуше изменений (если не указано иного). |
 |git config --global core.editor [editor]| — установить редактор для редактирования сообщений коммита.|
 |git config --global diff.tool [tool] |— установить программу для разрешения конфликтов при слиянии.|
+|git config --global core.autocrlf true| — Windows включить преобразование окончаний строк из CRLF в LF|
 
 <div align="center">
 
